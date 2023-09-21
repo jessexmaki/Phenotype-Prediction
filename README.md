@@ -32,7 +32,3 @@ The neural network modeling results suggest an additive genetic basis underlies 
 ## References
 
 Mackay, T.F.C. et al. (2012) The Drosophila melanogaster Genetic Reference Panel. Nature. https://doi.org/10.1038/nature10811
-
-## Contact
-
-Please direct any questions about this research to Dr. [YOUR NAME] at [UNIVERSITY/INSTITUTE EMAIL].
