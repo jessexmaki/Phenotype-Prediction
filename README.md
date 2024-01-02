@@ -29,6 +29,9 @@ The Jupyter notebook `phenopred.ipynb` provides code to reproduce the analysis:
 
 The neural network modeling results suggest an additive genetic basis underlies naturally occurring variation in Drosophila longevity, without statistical epistasis effects. The live demonstration highlights challenges in genomics-based prediction including small sample sizes and high dimensionality. This work provides a foundation for future studies of complex trait mapping in model organisms.
 
+<img width="583" alt="Screenshot 2024-01-02 at 5 59 25 PM" src="https://github.com/jessexmaki/phenotype-prediction/assets/87655161/bb896596-8c8a-4665-9d08-4d4f5c3b60a3">
+
+
 ## References
 
 Mackay, T.F.C. et al. (2012) The Drosophila melanogaster Genetic Reference Panel. Nature. https://doi.org/10.1038/nature10811
